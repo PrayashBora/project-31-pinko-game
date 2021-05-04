@@ -1,1 +1,2 @@
-# project-31-pinko-game
+# C31-Plinko-Game
+done by Prayash Bora
